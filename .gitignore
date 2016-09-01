@@ -16,7 +16,7 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 ### Java template
 *.class
-
+target/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
